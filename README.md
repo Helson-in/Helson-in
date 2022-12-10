@@ -12,12 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Helson-in&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Helson-in&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Helson-in&icon=2&color=6)](https://visitcount.itsvg.in)
 
